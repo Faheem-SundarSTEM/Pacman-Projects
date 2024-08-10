@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/5de8c406-f154-4252-92b9-e83160e15829)
+
+
+
 Overview:                                                                                                   
 
 The Pac-Man projects were developed for introductory artificial intelligence course, CS 188. It apply an array of AI techniques to playing Pac-Man. However, these projects don't focus on building AI for video games. Instead, It teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
@@ -10,4 +14,3 @@ FOR MORE INFORMATION::
 
 http://ai.berkeley.edu/project_overview.html
 
-![image](https://github.com/user-attachments/assets/b52e9240-b0a3-4de9-aca0-7429455cc8f4)
