@@ -16,7 +16,7 @@ http://ai.berkeley.edu/project_overview.html
 
 
 
-Project 1 : Search :  http://ai.berkeley.edu/search.html
+Project 1 : Search :  http://ai.berkeley.edu/search.html                                                                                                             
 Project 2: Multi-Agent Search : http://ai.berkeley.edu/multiagent.html
 
 
